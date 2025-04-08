@@ -34,5 +34,41 @@ public class AngajamPartTime : ICalculeaza
     {
         return TarifPeOra * OreLucrate;
     }
-    
 }
+
+public class AngajatFullTime : ICalculeaza
+{
+    public string Nume { get; set; }
+    public decimal SalariuFix { get; set; }
+
+    public AngajatFullTime(string nume, decimal salariuFix)
+    {
+        Nume = nume;
+        SalariuFix = salariuFix;
+    }
+
+    public decimal CalculeazaSalariu()
+    {
+        return SalariuFix;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
