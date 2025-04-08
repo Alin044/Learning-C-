@@ -1,0 +1,15 @@
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/bin/Debug/net9.0/InterfaceClassType
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/bin/Debug/net9.0/InterfaceClassType.deps.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/bin/Debug/net9.0/InterfaceClassType.runtimeconfig.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/bin/Debug/net9.0/InterfaceClassType.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/bin/Debug/net9.0/InterfaceClassType.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.GeneratedMSBuildEditorConfig.editorconfig
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.AssemblyInfoInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.AssemblyInfo.cs
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.csproj.CoreCompileInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.sourcelink.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/refint/InterfaceClassType.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/InterfaceClassType.genruntimeconfig.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/InterfaceClassType/InterfaceClassType/obj/Debug/net9.0/ref/InterfaceClassType.dll
