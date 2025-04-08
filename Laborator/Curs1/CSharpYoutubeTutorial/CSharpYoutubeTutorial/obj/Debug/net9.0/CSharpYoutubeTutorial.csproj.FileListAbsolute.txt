@@ -1,0 +1,15 @@
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/bin/Debug/net9.0/CSharpYoutubeTutorial
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/bin/Debug/net9.0/CSharpYoutubeTutorial.deps.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/bin/Debug/net9.0/CSharpYoutubeTutorial.runtimeconfig.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/bin/Debug/net9.0/CSharpYoutubeTutorial.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/bin/Debug/net9.0/CSharpYoutubeTutorial.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.AssemblyInfoInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.AssemblyInfo.cs
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.csproj.CoreCompileInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.sourcelink.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/refint/CSharpYoutubeTutorial.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/CSharpYoutubeTutorial.genruntimeconfig.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/CSharpYoutubeTutorial/CSharpYoutubeTutorial/obj/Debug/net9.0/ref/CSharpYoutubeTutorial.dll

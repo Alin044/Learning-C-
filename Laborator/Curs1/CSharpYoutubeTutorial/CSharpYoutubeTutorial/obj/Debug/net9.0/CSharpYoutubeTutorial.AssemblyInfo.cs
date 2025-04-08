@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpYoutubeTutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc7de167984d0a894a14790f4c377b90833daf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpYoutubeTutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpYoutubeTutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
