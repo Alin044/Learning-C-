@@ -1,0 +1,15 @@
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/bin/Debug/net9.0/FunctionExercise
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/bin/Debug/net9.0/FunctionExercise.deps.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/bin/Debug/net9.0/FunctionExercise.runtimeconfig.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/bin/Debug/net9.0/FunctionExercise.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/bin/Debug/net9.0/FunctionExercise.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.GeneratedMSBuildEditorConfig.editorconfig
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.AssemblyInfoInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.AssemblyInfo.cs
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.csproj.CoreCompileInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.sourcelink.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/refint/FunctionExercise.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/FunctionExercise.genruntimeconfig.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/FunctionExercise/FunctionExercise/obj/Debug/net9.0/ref/FunctionExercise.dll
