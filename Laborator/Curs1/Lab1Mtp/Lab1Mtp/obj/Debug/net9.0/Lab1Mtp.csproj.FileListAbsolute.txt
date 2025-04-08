@@ -1,0 +1,14 @@
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/bin/Debug/net9.0/Lab1Mtp
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/bin/Debug/net9.0/Lab1Mtp.deps.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/bin/Debug/net9.0/Lab1Mtp.runtimeconfig.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/bin/Debug/net9.0/Lab1Mtp.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/bin/Debug/net9.0/Lab1Mtp.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/Lab1Mtp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/Lab1Mtp.AssemblyInfoInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/Lab1Mtp.AssemblyInfo.cs
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/Lab1Mtp.csproj.CoreCompileInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/Lab1Mtp.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/refint/Lab1Mtp.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/Lab1Mtp.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/Lab1Mtp.genruntimeconfig.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/Lab1Mtp/Lab1Mtp/obj/Debug/net9.0/ref/Lab1Mtp.dll

@@ -1,0 +1,14 @@
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/bin/Debug/net9.0/DelegatExempu
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/bin/Debug/net9.0/DelegatExempu.deps.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/bin/Debug/net9.0/DelegatExempu.runtimeconfig.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/bin/Debug/net9.0/DelegatExempu.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/bin/Debug/net9.0/DelegatExempu.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/DelegatExempu.GeneratedMSBuildEditorConfig.editorconfig
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/DelegatExempu.AssemblyInfoInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/DelegatExempu.AssemblyInfo.cs
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/DelegatExempu.csproj.CoreCompileInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/DelegatExempu.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/refint/DelegatExempu.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/DelegatExempu.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/DelegatExempu.genruntimeconfig.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegatExempu/DelegatExempu/obj/Debug/net9.0/ref/DelegatExempu.dll

@@ -1,0 +1,14 @@
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/bin/Debug/net9.0/DelegateExercitiu
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/bin/Debug/net9.0/DelegateExercitiu.deps.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/bin/Debug/net9.0/DelegateExercitiu.runtimeconfig.json
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/bin/Debug/net9.0/DelegateExercitiu.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/bin/Debug/net9.0/DelegateExercitiu.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/DelegateExercitiu.GeneratedMSBuildEditorConfig.editorconfig
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/DelegateExercitiu.AssemblyInfoInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/DelegateExercitiu.AssemblyInfo.cs
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/DelegateExercitiu.csproj.CoreCompileInputs.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/DelegateExercitiu.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/refint/DelegateExercitiu.dll
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/DelegateExercitiu.pdb
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/DelegateExercitiu.genruntimeconfig.cache
+/home/alin/Code/C#/LaboratorMTP/Laborator/Curs1/DelegateExercitiu/DelegateExercitiu/obj/Debug/net9.0/ref/DelegateExercitiu.dll
